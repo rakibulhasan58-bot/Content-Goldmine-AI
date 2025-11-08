@@ -1,0 +1,7 @@
+{
+  "name": "Content Goldmine AI",
+  "description": "An AI-powered assistant to generate, expand, and schedule high-quality online content, helping you monetize your online presence effectively.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
